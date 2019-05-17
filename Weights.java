@@ -23,7 +23,7 @@ public class Weights {
 		System.out.println("The weighted average of the test scores is " + average1+"!"); 
 		System.out.println("The weighted average of the assignment scores is " +average2+"!"); 
 		System.out.println("The master average of the assignments and tests scores is " +(average1+average2)/2+"!");
-		System.out.println("This is not a passing score...please try again");
+		
 		
 	}
 
